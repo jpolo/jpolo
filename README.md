@@ -10,6 +10,10 @@ With my modest contributions, I decided to try to solve developer's every day qu
 
 ## 🚀 My projects
 
+Author of W5S package collection : [https://github.com/w5s/std](https://w5s.github.io/std/)
+
+It started as a simple kata for my own practise, and it evolved on a bigger project, collecting many best practises from the whole js ecosystem and from myself.
+
 At the moment, I am working mainly on Typescript libraries and productivity tools (in bash, make or other)
 
 ## 🩷 Donate
